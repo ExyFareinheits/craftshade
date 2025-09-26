@@ -1,0 +1,35 @@
+{
+  "serverName": "CraftShade Ukraine",
+  "version": "1.18.2",
+  "features": [
+    "Vanilla+",
+    "VoiceMod підтримка",
+    "Discord інтеграція",
+    "Україномовна спільнота"
+  ],
+  "ip": "play.craftshade.ua",
+  "discord": "https://discord.gg/craftshade",
+  "updates": [
+    {
+      "id": 1,
+      "date": "2024-01-15",
+      "title": "Оновлення серверу до 1.18.2",
+      "content": "Сервер оновлено до останньої версії з покращеннями продуктивності."
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "date": "2024-01-10",
+      "title": "Відкриття CraftShade Ukraine!",
+      "content": "Ласкаво просимо на наш новий український Minecraft сервер!"
+    }
+  ],
+  "players": [
+    {
+      "username": "Player1",
+      "role": "Admin",
+      "joinDate": "2024-01-01"
+    }
+  ]
+}
